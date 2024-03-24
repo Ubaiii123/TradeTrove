@@ -1,0 +1,4 @@
+#Sun Mar 24 10:38:50 WIB 2024
+base.0=C\:\\Pengembangan Aplikasi Bergerak II\\ProjectBesar\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
