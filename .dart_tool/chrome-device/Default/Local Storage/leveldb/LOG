@@ -1,3 +1,2 @@
-2024/03/24-13:04:50.081 3760 Reusing MANIFEST C:\Users\zengg\AppData\Local\Temp\flutter_tools.5e4658de\flutter_tools_chrome_device.fdc0097\Default\Local Storage\leveldb/MANIFEST-000001
-2024/03/24-13:04:50.082 3760 Recovering log #3
-2024/03/24-13:04:50.084 3760 Reusing old log C:\Users\zengg\AppData\Local\Temp\flutter_tools.5e4658de\flutter_tools_chrome_device.fdc0097\Default\Local Storage\leveldb/000003.log 
+2024/03/24-20:41:08.982 59f0 Creating DB C:\Users\User\AppData\Local\Temp\flutter_tools.4b8089d0\flutter_tools_chrome_device.3fe388f\Default\Local Storage\leveldb since it was missing.
+2024/03/24-20:41:09.016 59f0 Reusing MANIFEST C:\Users\User\AppData\Local\Temp\flutter_tools.4b8089d0\flutter_tools_chrome_device.3fe388f\Default\Local Storage\leveldb/MANIFEST-000001

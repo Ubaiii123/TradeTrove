@@ -17,7 +17,7 @@ dependencies:
 flutter_launch_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/Kucing.png"
+  image_path: "assets/images/logoTt.png"
 
 dev_dependencies:
   flutter_test:
@@ -28,7 +28,7 @@ flutter:
   uses-material-design: true
 
   assets:
-  - assets/images/Kucing.png
+  - assets/images/logoTt.png
 
   fonts:
   - family: Lato

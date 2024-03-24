@@ -20,8 +20,7 @@ class SplashScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/images/Kucing.png',
-              color: Colors.white,
+              'assets/images/logoTt.png',
             ),
             SizedBox(
               width: 250.0,
