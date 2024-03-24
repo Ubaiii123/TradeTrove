@@ -20,8 +20,8 @@ class LoginScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Image.asset(
-                    'assets/images/Kucing.png',
-                    color: Colors.cyan.shade900,
+                    'assets/images/logoTt.png',
+                    
                   ),
                   SizedBox(
                     height: 10,
@@ -29,7 +29,7 @@ class LoginScreen extends StatelessWidget {
                   Text(
                     'Ayo Membeli Disini',
                     style: TextStyle(
-                      fontSize: 30,
+                      fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.cyan.shade900,
                     ),
